@@ -1,0 +1,64 @@
+
+/* --------------------*/
+/* Global Declarations */
+/* --------------------*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /*debugging*/
+    border: 1px solid black;
+
+    /* global default font */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+        background-color: blueviolet;      
+}
+
+p {
+    color:antiquewhite;
+    font-size: 1.3em;
+}
+
+button {
+    outline: none;
+    background-color: rgb(140, 140, 224);
+    color: antiquewhite;
+    font-size: 1.3em;
+}
+
+
+/* -----------------------*/
+/* Outer Container Section*/
+/* -----------------------*/
+
+.outer-container {
+    padding: 10px;
+}
+
+/* ------------------*/
+/* Top-Bar Container */
+/* ------------------*/
+
+.top-bar p {
+    float: right;
+}
+
+/* ------------------------*/
+/* Inner-Conatainer Section*/
+/* ------------------------*/
+
+
+
+/* -----------------*/
+/* Header/Quiz Intro Section*/
+/* ------------------*/
+
+
+/* -----------------*/
+/* Main Quiz Section*/
+/* -----------------*/
